@@ -3,6 +3,7 @@ using namespace std;
 
 int main() {
 	// your code goes here
+	
 	long long int n;
 	cin>>n;
 	if(n%5 == 0 || n%6 == 0)
