@@ -2,6 +2,7 @@
 using namespace std;
 
 int main() {
+	
 	// your code goes here
 	long long int l,r;
 	cin>>l>>r;
