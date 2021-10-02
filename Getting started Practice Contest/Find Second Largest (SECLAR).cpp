@@ -11,4 +11,5 @@ int main(){
 			cout << c << endl;
 		else
 			cout << a << endl;
+	return 0;
 }
