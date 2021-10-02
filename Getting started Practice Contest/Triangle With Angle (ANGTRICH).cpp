@@ -3,6 +3,7 @@ using namespace std;
 
 int main() {
 	// your code goes here
+	
 	int a,b,c;
 	cin>>a>>b>>c;
 	if((a+b>c || b+c>a || c+a>b) && (a+b+c==180) && (a>0 && b>0 && c>0))
